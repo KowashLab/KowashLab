@@ -63,6 +63,7 @@ me.say_hi()
 - 🔥 **Passion**: Creating practical solutions
 - 🌱 **Growth**: Daily learning & coding
 - 💼 **Goal**: First developer role
+- 🤝 **Community**: Open to collaborations
 
 </td>
 </tr>
