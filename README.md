@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,24,30&height=180&section=header&text=KowashLab&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,26,30&height=180&section=header&text=KowashLab&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=40" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=4CAF50&center=true&vCenter=true&repeat=true&width=900&lines=Python+Developer+%F0%9F%90%8D+Building+the+Future;Full-Stack+Engineer+%E2%9A%A1+API+Specialist;FastAPI+%7C+Django+%7C+Flask+%F0%9F%94%A5;Learning+%2B+Growing+%2B+Creating+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -320,4 +320,4 @@ if your_company.needs("passionate_developer"):
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,24,30&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,26,30&height=120&section=footer" />
