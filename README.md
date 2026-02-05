@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/oleg-kowash"><img src="https://img.shields.io/badge/LinkedIn-E5E4E2?style=flat&logo=linkedin&logoColor=000000"/></a>
 <a href="https://stackoverflow.com/users/31537627"><img src="https://img.shields.io/badge/Stack_Overflow-E5E4E2?style=flat&logo=stackoverflow&logoColor=000000"/></a>
 <a href="https://www.instagram.com/kowashlab/"><img src="https://img.shields.io/badge/Instagram-E5E4E2?style=flat&logo=instagram&logoColor=000000"/></a>
-<img src="https://komarev.com/ghpvc/?username=KowashLab&style=flat&color=555555&label=views"/>
+<img src="https://komarev.com/ghpvc/?username=KowashLab&style=flat&color=E5E4E2&label=views"/>
 
 </div>
 
@@ -34,7 +34,7 @@ class Developer:
     
     name     = "Oleg C."
     role     = "Software Engineer"
-    location = "Stockholm · Europe"
+    location = "Europe · Remote"
     
     stack    = ["Python", "FastAPI", "Django", "PostgreSQL", "Docker"]
     frontend = ["React", "TypeScript"]
