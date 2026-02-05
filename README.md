@@ -22,13 +22,14 @@ class Developer:
     def __init__(self):
         self.name = "Oleg C."
         self.username = "@KowashLab"
-        self.role = "Python Backend Developer"
+        self.role = "Full-Stack Python Developer"
         self.education = "🎓 Python Fullstack Engineer | Middle Developer"
         self.location = "🌐 Remote | Europe"
         self.tech_stack = ["Python", "FastAPI", "Django", "PostgreSQL", "Docker"]
-        self.learning = ["React", "CI/CD", "Cloud Deployment"]
-        self.interests = ["Backend Development", "API Design", "DevOps"]
-        self.current_status = "⚡ Backend Developer | Production Ready"
+        self.frontend = ["React", "JavaScript", "HTML/CSS"]
+        self.learning = ["TypeScript", "CI/CD", "Cloud Deployment"]
+        self.interests = ["Backend Development", "API Design", "Modern Frontend"]
+        self.current_status = "⚡ Backend-focused Full-Stack | Production Ready"
     
     def say_hi(self):
         print(f"Hey! I'm {self.username} 👋")
@@ -45,6 +46,8 @@ me.say_hi()
 </div>
 
 > ⚡ **Backend** — RESTful APIs with FastAPI & Django
+>
+> 🎨 **Frontend** — React, JavaScript, responsive design
 >
 > 🐳 **DevOps** — Docker, CI/CD, deployment workflows
 >
@@ -63,6 +66,7 @@ me.say_hi()
 ### **💬 Languages & Core**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -73,6 +77,10 @@ me.say_hi()
 ![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+### **🎨 Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **🗄️ Databases**
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -96,13 +104,13 @@ me.say_hi()
 
 <div align="center">
 
-| 🚀 **Backend** | ☁️ **DevOps** | 🧠 **Architecture** |
+| 🚀 **Backend** | 🎨 **Frontend** | ☁️ **DevOps** |
 |:---:|:---:|:---:|
-| Async Patterns | Docker Compose | Clean Code |
-| Testing (pytest) | CI/CD Pipelines | API Design |
-| ORM Optimization | Linux Administration | Code Review |
+| Async Patterns | React Hooks | Docker Compose |
+| Testing (pytest) | TypeScript | CI/CD Pipelines |
+| ORM Optimization | State Management | Linux Administration |
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,docker,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,react,ts,docker,git,github,vscode,linux" />
 
 </div>
 
