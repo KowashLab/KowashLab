@@ -47,7 +47,11 @@ me.say_hi()
 
 > ⚡ **Backend** — RESTful APIs with FastAPI & Django
 >
-> 🎨 **Frontend** — React, JavaScript, responsive design
+> 💻 **Full-Stack** — Python backend with React frontend
+>
+> 🎨 **Frontend** — HTML5, CSS3, JavaScript ES6+
+>
+> 🔧 **APIs** — RESTful design, async programming, WebSocket
 >
 > 🐳 **DevOps** — Docker, CI/CD, deployment workflows
 >
@@ -57,7 +61,13 @@ me.say_hi()
 >
 > 🧪 **Testing** — pytest, unittest, TDD
 >
+> 🛠️ **Tools** — VS Code, PyCharm, Postman, Docker, Linux
+>
+> 🎯 **Methodology** — Agile, code reviews, best practices
+>
 > 📦 **Version Control** — Git workflows, collaboration
+>
+> 📈 **Focus** — Maintainable code, continuous learning
 
 ---
 
@@ -70,7 +80,13 @@ me.say_hi()
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 ### **⚡ Backend & APIs**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -84,19 +100,34 @@ me.say_hi()
 
 ### **🗄️ Databases**
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### **☁️ Cloud & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### **🛠️ Tools & Productivity**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
@@ -137,14 +168,16 @@ me.say_hi()
 
 ---
 
-## 💼 Career Goals
+## 💼 Career Goals & Vision
 
 <div align="center">
 
-**🎯 Python Backend Developer** — Mid-Level Position  
-**🌍 Location** — Europe (Stockholm preferred) | Hybrid/Remote  
-**🔥 Focus** — Production-ready APIs, Clean Code, Docker  
-**🤝 Open to** — Full-Time, Contract, Startups
+| 🎯 **Position** | 🌍 **Location** | 🔥 **Focus** | 🤝 **Open To** | ⚡ **Expertise** |
+|:---:|:---:|:---:|:---:|:---:|
+| Mid-Level | Stockholm, Sweden | Production Code | Full-Time | APIs |
+| Python Developer | Office or Hybrid | Scalable APIs | Contract | Backend |
+| Full-Stack | On-Site Preferred | Clean Architecture | Freelance | Docker |
+| Backend Expert | Europe Timezone | DevOps | Startups | Databases |
 
 </div>  
 
